@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# I am Akash from Madhya Pradesh, I do Software Development and Mentorship for Pepole. I really enjoy learning Programming languages menliy Java, JavaScript, Python, Solidity and some frameworkd or liberarys like Express, React, Django. I am enjoying my journey in Software Engineering. You can check out my LinkedIn - https://www.linkedin.com/in/akash503yadav/
+I am Akash from Madhya Pradesh, I do Software Development and Mentorship for Pepole. I really enjoy learning Programming languages menliy Java, JavaScript, Python, Solidity and some frameworkd or liberarys like Express, React, Django. I am enjoying my journey in Software Engineering. You can check out my LinkedIn - https://www.linkedin.com/in/akash503yadav/
