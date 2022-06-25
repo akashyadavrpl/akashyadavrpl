@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 I am Akash from Madhya Pradesh, I do Software Development and Mentorship for Pepole. I really enjoy learning Programming languages and frameworks like Java, JavaScript, Python, Solidity and Express, React, Django. I am enjoying my journey in Software Development. You can check out my LinkedIn - https://www.linkedin.com/in/akash503yadav/
+
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashyadavrpl&theme=dark&show_icons=true)
