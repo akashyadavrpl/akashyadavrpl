@@ -19,6 +19,8 @@ I am Akash from Madhya Pradesh, I do Software Development and Mentorship for Pep
 
 ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashyadavrpl&theme=&show_icons=true)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/akashyadavrpl)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/akash503yadav/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/___akashyadav___/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/akashyadavrpl) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/akash503yadav/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/___akashyadav___/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashyadavrpl)](https://github.com/anuraghazra/github-readme-stats)
